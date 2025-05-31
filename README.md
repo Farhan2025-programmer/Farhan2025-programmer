@@ -1,4 +1,4 @@
-## Hi i'm Farhan 👋
+## Hi, i'm Farhan 👋
 
 ## **About me:**
 - 🔭 I’m currently working on a messaging project using socket programming to build real-time communication features.
