@@ -1,5 +1,5 @@
 ## Hi, i'm Farhan 👋
-Welcome to my GitHub profile! I am a Full-Stack Developer passionate about creating user-friendly applications. With expertise in frontend and backend technologies, I enjoy solving complex problems using clean and efficient code.
+Welcome to my GitHub profile! I am a **Full-Stack** Developer passionate about creating user-friendly applications. With expertise in **frontend** and **backend** technologies, I enjoy solving complex problems using **clean** and **efficient** code.
 
 ## **About me:**
 - 🔭 I’m currently working on a messaging project using socket programming to build real-time communication features.
