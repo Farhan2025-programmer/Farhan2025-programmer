@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Farhan2025-programmer/Farhan2025-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi i'm Farhan 👋
 
 ## **About me:**
 - 🔭 I’m currently working on a messaging project using socket programming to build real-time communication features.
@@ -14,7 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can contact me via email at kozegryfarhan1385@gmail.com or my telegram @Farhan_Programmer or my phone number is +989336082855
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When it works, don't over-engineer it.
--->
 
 ## **Frontend:**
 - HTML
