@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+## **About me:**
 - 🔭 I’m currently working on a messaging project using socket programming to build real-time communication features.
 - 🌱 I’m currently learning about artificial intelligence, machine learning, and their real-world applications.
 - 👯 I’m looking to collaborate on advanced web development projects that combine modern AI models and technologies.
