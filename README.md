@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I am a **Full-Stack** Developer passionate about c
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dj" height="60" alt="Django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
