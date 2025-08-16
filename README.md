@@ -61,6 +61,34 @@ Welcome to my GitHub profile! I am a **Full-Stack** Developer passionate about c
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="Powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="Pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" alt="Rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="Redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="60" alt="Stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="Vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="Visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="Cs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="Html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="Css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="Github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="Discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="Cloudflare logo"  />
 </div>
 
 ###
