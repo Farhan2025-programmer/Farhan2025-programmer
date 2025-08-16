@@ -48,7 +48,19 @@ Welcome to my GitHub profile! I am a **Full-Stack** Developer passionate about c
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=Html" height="60" alt="Html logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="Nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="Npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="Powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="Pycharm logo"  />
 </div>
 
 ###
