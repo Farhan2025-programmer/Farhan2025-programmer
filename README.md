@@ -94,7 +94,7 @@ Welcome to my GitHub profile! I am a **Full-Stack** Developer passionate about c
 ###
 
 <div style="width: 100%; text-align: center;">
-  <img src="https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif" alt="Animation" style="width: 100%; margin-left: 20%;" />
+  <img src="https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif" alt="Animation" style="width: 100%; margin-right: -20%;" />
 </div>
 
 ###
