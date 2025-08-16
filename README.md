@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I am a **Full-Stack** Developer passionate about c
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=Html" height="60" alt="Html logo"  />
 </div>
 
 ###
