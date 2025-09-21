@@ -92,6 +92,8 @@ Welcome to my GitHub profile! I am a **Full-Stack** Developer passionate about c
   <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="Cloudflare logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="Cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="Cloudflare logo"  />
 </div>
 
 ###
